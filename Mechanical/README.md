@@ -13,6 +13,7 @@ Daha odaklı çalışabilmek için Mekanik alanı aşağıdaki alt kategorilere 
 - 🚁 **[Drones (Drone Sistemleri)](./Drones)**: Açık kaynak uçuş kontrol kartlarının incelenmesi, otonom görev planlaması, prototip üretimi ve aerodinamik araştırmalar.
 - 📡 **[Electronic-Comms (Elektronik Haberleşme)](./Electronic-Comms)**: Cihazların birbiriyle konuşmasını sağlayan RF (Radyo Frekansı), sinyal işleme, telemetri ağları ve IoT iletişim protokolleri.
 - ☀️ **[Solar-Energy (Güneş Enerjisi)](./Solar-Energy)**: Yenilenebilir enerji sistemleri, verimlilik hesaplamaları ve otonom cihazların güç ihtiyaçları için tasarımlar.
+- 🏍️ **[Motorcycles (Motorsiklet)](./Motorcycles)**: Motorsiklet mekaniği, ECU okuma/yazma ve performans modifikasyonları.
 
 ## 🎯 Vizyon
 Dünya çapında başarılı olan donanım/mekanik açık kaynak projelerini (veya eğitim notlarını) **Fork'layıp** bu başlıklara entegre etmek. Nihai hedef; kendi kendine yeten, uzaktan güvenli bir şekilde haberleşebilen mekanik/elektronik sistemlerin temelini bu repoda atmaktır.
