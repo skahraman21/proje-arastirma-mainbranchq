@@ -1,5 +1,7 @@
 # 🏎️ Otomobil Modifikasyonları Merkez Dizini
 
+[⬅️ Mekanik Araştırmalara Dön](../README.md)
+
 Bu klasör, araç modifikasyonlarını (tuning, aftermarket parçalar, motor ve yürüyen aksam geliştirmeleri) hem global hem de yerel (Türkiye) perspektiften inceleyen ana dizindir.
 
 ## Araştırma Metodolojisi

@@ -1,5 +1,7 @@
 # ☀️ Güneş Enerjisi Teknolojileri (Solar Energy)
 
+[⬅️ Mekanik Araştırmalara Dön](../README.md)
+
 Bu klasör; fotovoltaik hücre teorisi, batarya yönetim sistemleri (BMS) ve enerjinin otonom sistemlerde kullanımını araştırma merkezidir.
 
 ## Odak Noktaları

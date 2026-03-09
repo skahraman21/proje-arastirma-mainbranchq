@@ -1,5 +1,7 @@
 # 📡 Elektronik Haberleşme (Electronic Comms)
 
+[⬅️ Mekanik Araştırmalara Dön](../README.md)
+
 Cihazlar ve sistemler arasındaki iletişimin (Görünmez Veri Aktarımının) nasıl yönetileceği üzerine araştırma ve laboratuvar çalışma defteridir. 
 
 Diğer mekanik alanların **veri bağıdır**. (Örn: Bir Drone'un yer istasyonuyla haberleşmesi, veya otonom sistemlerin IoT ağıyla entegrasyonu).

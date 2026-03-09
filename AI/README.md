@@ -1,5 +1,7 @@
 # 🧠 AI (Yapay Zeka) Araştırmaları
 
+[⬅️ Ana Sayfaya Dön](../../README.md)
+
 Bu alan, yapay zeka projelerim, makine öğrenmesi denemelerim ve LLM (Büyük Dil Modelleri) ile olan etkileşimlerimin ana dizinidir.
 
 ## Hedefler

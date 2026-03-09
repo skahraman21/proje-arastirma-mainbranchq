@@ -1,5 +1,7 @@
 # 🚗 Otomotiv Siber Güvenliği (Automotive CyberSec)
 
+[⬅️ Mekanik Araştırmalara Dön](../README.md) | 🛡️ [Ana Siber Güvenlik](../../CyberSec)
+
 Bu klasör, modern araçların elektronik/yazılım altyapısındaki güvenlik zafiyetlerinin anlaşılması ve araç sistemlerinin modifiye edilmesi üzerine olan araştırmaların merkezidir. Ana `CyberSec` reposunun donanımsal ayağı olarak da düşünülebilir.
 
 ## Odak Noktaları
